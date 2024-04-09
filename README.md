@@ -40,6 +40,7 @@ número pedido, data cadastro, todos
 - Docker
 - Maven
 - swagger
+- jacoco
 
 ### How do use
 
