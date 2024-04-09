@@ -1,0 +1,10 @@
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Jose', '123', '123@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Joao', '456', '456@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Maria', '789', '789@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Katia', '023', '023@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Silvana', '103', '103@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Sebastiao', '120', '120@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Lucia', '423', '423@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Vanessa', '323', '323@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Joel', '523', '523@a.com');
+INSERT INTO ksdb.CLIENT (NAME, CPF, EMAIL) VALUES('Lazaro', '723', '723@a.com');

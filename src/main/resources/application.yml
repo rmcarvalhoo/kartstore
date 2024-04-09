@@ -1,0 +1,28 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /kartstore
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+
+spring:
+  application:
+    name: kartstore
+  datasource:
+    url: jdbc:mysql://localhost:3306/ksdb?allowPublicKeyRetrieval=true
+    username: ks_one
+    password: ks_pw
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+
